@@ -22,7 +22,7 @@ class ObjectDetectionViewController: ViewController {
         // Setup Vision parts
         let error: NSError! = nil
         
-        guard let modelURL = Bundle.main.url(forResource: "model", withExtension: "mlmodelc") else {
+        guard let modelURL = Bundle.main.url(forResource: "Model", withExtension: "mlmodelc") else {
             return NSError(domain: "VisionObjectRecognitionViewController", code: -1, userInfo: [NSLocalizedDescriptionKey: "Model file is missing"])
         }
         do {

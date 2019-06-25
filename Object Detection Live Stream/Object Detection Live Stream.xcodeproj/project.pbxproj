@@ -13,7 +13,7 @@
 		2BF7EE5F22C247680060600D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BF7EE5E22C247680060600D /* Assets.xcassets */; };
 		2BF7EE6222C247680060600D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BF7EE6022C247680060600D /* LaunchScreen.storyboard */; };
 		2BF7EE6A22C247B10060600D /* ObjectDetectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF7EE6922C247B10060600D /* ObjectDetectionViewController.swift */; };
-		2BF7EE6C22C24B6D0060600D /* model.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 2BF7EE6B22C24B6D0060600D /* model.mlmodel */; };
+		2BF7EE6C22C24B6D0060600D /* Model.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 2BF7EE6B22C24B6D0060600D /* Model.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		2BF7EE6122C247680060600D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2BF7EE6322C247680060600D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2BF7EE6922C247B10060600D /* ObjectDetectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectDetectionViewController.swift; sourceTree = "<group>"; };
-		2BF7EE6B22C24B6D0060600D /* model.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = model.mlmodel; sourceTree = "<group>"; };
+		2BF7EE6B22C24B6D0060600D /* Model.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Model.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				2BF7EE5722C247670060600D /* AppDelegate.swift */,
 				2BF7EE5922C247670060600D /* ViewController.swift */,
 				2BF7EE6922C247B10060600D /* ObjectDetectionViewController.swift */,
-				2BF7EE6B22C24B6D0060600D /* model.mlmodel */,
+				2BF7EE6B22C24B6D0060600D /* Model.mlmodel */,
 				2BF7EE5B22C247670060600D /* Main.storyboard */,
 				2BF7EE5E22C247680060600D /* Assets.xcassets */,
 				2BF7EE6022C247680060600D /* LaunchScreen.storyboard */,
@@ -143,7 +143,7 @@
 			files = (
 				2BF7EE6A22C247B10060600D /* ObjectDetectionViewController.swift in Sources */,
 				2BF7EE5A22C247670060600D /* ViewController.swift in Sources */,
-				2BF7EE6C22C24B6D0060600D /* model.mlmodel in Sources */,
+				2BF7EE6C22C24B6D0060600D /* Model.mlmodel in Sources */,
 				2BF7EE5822C247670060600D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
