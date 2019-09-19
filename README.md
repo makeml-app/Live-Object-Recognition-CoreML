@@ -23,7 +23,7 @@ See the [Tutorial](https://makeml.app/docs/doc1?from=github_live_capture_object_
 </div>
 
 ## Using another .mlmodel in iOS application
-[![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=platform&message=iOS&color=blue)](https://makeml.app)    [![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=language&message=swift&nbsp;&#124;&nbsp;objective-c&color=green)](https://makeml.app)
+[![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=platform&message=iOS&color=blue)](https://makeml.app)    [![MakeML object detection and segmentation ML models](https://img.shields.io/static/v1?label=language&message=swift&color=green)](https://makeml.app)
 
 For using this project with another .mlmodel file, add it to the project and change this line with your name of the model.
 ```
