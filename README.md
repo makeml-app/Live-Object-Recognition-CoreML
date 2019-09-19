@@ -19,7 +19,7 @@ See the [Tutorial](https://makeml.app/docs/doc1?from=github_live_capture_object_
 </div>
 
 <div align="center">
-<img src="images/dog_detector_result.gif">
+<img src="images/doc_detector_result.gif">
 </div>
 
 ## Using another .mlmodel in iOS application
